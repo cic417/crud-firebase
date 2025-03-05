@@ -110,7 +110,7 @@ const App = () => {
   return (
     <div>
       <div className="container">
-        <h1>MERN Stack Project (CRUD)</h1>
+        <h1>Firebase Project (CRUD)</h1>
         <form onSubmit={handleAddUser}>
           <input
             type="text"
